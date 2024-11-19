@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "791741040937",
+    "project_id": "mscenter-c76b7",
+    "storage_bucket": "mscenter-c76b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791741040937:android:69faac269a5cc5f4d28f38",
+        "android_client_info": {
+          "package_name": "id.pintasku.mscenter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzALULne0c5hoC6N8OnPPIxfIL23FCuJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
